@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.block-container{
+    padding-top:2rem;
+}
+
+h1{
+    color:#0F62FE;
+}
+
+.stButton>button{
+    width:100%;
+    border-radius:10px;
+    height:50px;
+    font-size:17px;
+    font-weight:600;
+}
+
+div[data-testid="metric-container"]{
+    border-radius:12px;
+    border:1px solid #dddddd;
+    padding:15px;
+    box-shadow:0 2px 8px rgba(0,0,0,.08);
+}
