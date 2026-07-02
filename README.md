@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personalized Healthcare & Medicine Recommendation System
 
 A Machine Learning-based web application that predicts diseases based on patient symptoms and provides personalized healthcare recommendations, BMI analysis, health risk assessment, and analytics using Streamlit.
@@ -202,3 +203,7 @@ Cybersecurity & AI Enthusiast
 ## License
 
 This project is developed for educational and academic purposes.
+=======
+# Healthcare-Recommendation-System
+A Machine Learning-based web application that predicts diseases based on patient symptoms and provides personalized healthcare recommendations, BMI analysis, health risk assessment, and analytics using Streamlit.
+>>>>>>> c84d3d41c6c9aa2525769e48070d68caafba50e5
