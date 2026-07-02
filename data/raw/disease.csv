@@ -1,0 +1,11 @@
+fever,cough,headache,fatigue,body_pain,sore_throat,nausea,vomiting,diarrhea,age,disease
+1,1,1,1,1,1,0,0,0,25,Flu
+1,1,0,1,0,1,0,0,0,18,Common Cold
+0,0,1,1,0,0,1,1,0,30,Migraine
+1,0,1,1,1,0,1,0,0,22,Dengue
+0,0,1,0,0,0,1,1,1,28,Food Poisoning
+0,1,0,0,0,1,0,0,0,35,Allergy
+1,1,1,1,1,0,0,0,0,45,COVID-19
+0,0,1,1,0,0,0,0,0,20,Stress
+1,0,1,1,1,0,0,0,0,55,Malaria
+0,1,0,0,0,1,0,0,0,16,Common Cold
